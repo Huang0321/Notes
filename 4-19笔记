@@ -1,0 +1,16 @@
+4、获取姓名密码参数
+python xxx.py argv1 argv2
+import sys
+sys.argv[1]
+
+5.访问redis,判断输入的姓名和密码和redis中的用户名和密码是否匹配
+
+6. 和redis不匹配，则查询mysql， select操作
+
+7.mysql有查询结果的话，则更新到redis中，反之则没该用户
+
+
+习题2： 订阅，消费者，发布者
+rabbit mq
+__del__
+__new__
