@@ -1,2 +1,2 @@
 # Notes
-note
+Here are some notes about Python Django DataBase etc
